@@ -1,0 +1,5 @@
+PyGithub
+openai
+numpy
+plantuml
+requests
